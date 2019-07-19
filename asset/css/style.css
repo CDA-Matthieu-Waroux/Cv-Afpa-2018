@@ -1,0 +1,50 @@
+.bg-dark {
+    
+    background-image: linear-gradient(#04519b, #033C73 60%, #02325f);
+    background-repeat: no-repeat;
+}
+body
+{
+font-size: 100%
+}
+.texte-aligne
+{
+    text-align: center;
+}
+.blanc {
+    color: white
+}
+.titre-responsive{
+    font-size: 2em;
+}
+.texte-responsive{
+    font-size: 1.2em;
+}
+
+.gras{
+    font-weight: bold
+}
+.bg-gris{
+    background-color:gray
+}
+.bg-blanc{
+    background-color:white
+}
+.noir{color:black}
+.entete-taille{height: 50px;}
+.troll{font-size: 100em}
+.taille-mini{
+    min-height: 775px;
+}
+.noir-border{
+    border:3px black groove;
+}
+.souligner{
+    text-decoration: underline;
+}
+.darkinou{
+    color :  #033C73;
+}
+.petit{
+    font-size: 20px
+}
